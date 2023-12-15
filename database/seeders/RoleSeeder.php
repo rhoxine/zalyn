@@ -38,7 +38,7 @@ class RoleSeeder extends Seeder
         $services = [
             [
                 'service_name' => 'Tooth Restoration (Pasta)',
-                'price' => '1000',
+                'price' => '800',
             ],
             [
                 'service_name' => 'Tooth Whitening (Pampaputi ng ngipin)',
@@ -46,31 +46,31 @@ class RoleSeeder extends Seeder
             ],
             [
                 'service_name' => 'Oral Prophylaxis (linis ng ngipin)',
-                'price' => '250',
+                'price' => '1000',
             ],
             [
                 'service_name' => 'Veneers',
-                'price' => '8000',
+                'price' => '18500',
             ],
             [
                 'service_name' => 'Jacket Crown',
-                'price' => '6000',
+                'price' => '15000',
             ],
             [
                 'service_name' => 'Fixed Bridge',
-                'price' => '2300',
+                'price' => '20000',
             ],
             [
                 'service_name' => 'Dentures',
-                'price' => '10000',
+                'price' => '21000',
             ],
             [
                 'service_name' => 'Surgery (bunot)',
-                'price' => '8000',
+                'price' => '500',
             ],
             [
                 'service_name' => 'Root Canal Treatment',
-                'price' => '8000',
+                'price' => '9000',
             ],
         ];
 
